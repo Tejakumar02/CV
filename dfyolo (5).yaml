@@ -1,8 +1,0 @@
-
-train: /content/train_dataset/train/images
-val: /content/train_dataset/valid/images
-
-nc: 16
-            
-names: ['end_cover', 'end_cover_bolt', 'tower', 'clamp', 'hammer', 'lock_pin_interlock', 'circlip_interlock', 
-        'drain_plug', 'loctite', 'cutoff_valve', 'tower_movement', 'drill_bit1', 'drill_bit2', 'fixture', 'drillm','cover_plate']
