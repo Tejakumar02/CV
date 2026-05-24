@@ -12,7 +12,7 @@
 [![Flask](https://img.shields.io/badge/Flask-Live%20Stream-000000?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com)
 [![CUDA](https://img.shields.io/badge/CUDA-GPU%20Accelerated-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://developer.nvidia.com/cuda-toolkit)
 [![mAP50](https://img.shields.io/badge/mAP50-98.1%25-brightgreen?style=for-the-badge)]()
-[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache-yellow?style=for-the-badge)](LICENSE)
 
 <br/>
 
