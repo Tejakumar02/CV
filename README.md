@@ -1,4 +1,4 @@
-# AL_chennai
+# Ashok Leyland_Chennai
 <div align="center">
 
 <img src="defect_scanner_logo.png" alt="Defect Scanner Logo" width="200"/>
