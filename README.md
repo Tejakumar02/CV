@@ -1,5 +1,5 @@
-# **Ashok Leyland · Chennai**
-Manufacturing Unit, Ennore
+# **Ashok Leyland · Chennai** 
+## Manufacturing Unit, Ennore 
 <div align="center">
 
 <img src="defect_scanner_logo.png" alt="Defect Scanner Logo" width="200"/>
